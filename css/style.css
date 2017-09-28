@@ -1,0 +1,22 @@
+.container-fluid {
+  padding: 0px;
+}
+
+.card,
+.card-img-top {
+  text-align: center;
+  border-radius: 30px;
+}
+
+.card-deck-wrapper:nth-child(2) {
+  margin-top: 20px;
+}
+
+small {
+  display: none;
+}
+
+.users {
+  padding-left: 60px;
+  padding-right: 60px;
+}
